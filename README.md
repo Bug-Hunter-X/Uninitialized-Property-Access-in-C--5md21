@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle bug in C#: accessing an uninitialized property.  The `bug.cs` file shows the problematic code, where the `MyProperty` is accessed without explicit initialization.  The `bugSolution.cs` file provides a corrected version.
